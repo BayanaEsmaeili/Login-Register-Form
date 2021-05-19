@@ -6,6 +6,10 @@ Nice responsive login and registration form using Html, Css and JavaScript. Chan
 
 
 
+
+
+
+
 # In mobile
 ![Login-Register-Form2](https://user-images.githubusercontent.com/76595023/118810605-4faf0080-b8c1-11eb-8aec-c94595d27a23.JPG)
 
